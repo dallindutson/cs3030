@@ -64,4 +64,9 @@ sed 's/\(they\) \(were\)/\2 \1/g' dukeofyork.txt # swaps words
 # -e allows specifying multiple commands
 # -f specifies a file of commands
 
+# a appends a line
+# i inserts a line
+# c changes lines
+
+
 
